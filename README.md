@@ -15,7 +15,7 @@ Ensure you have the following installed:
 
 ### **2️⃣ Clone the Repository**
 ```sh
- git clone https://github.com/your-repo/task-management-api.git
+ git clone https://github.com/ahmedmajko/TaskManagementSystem.git
  cd task-management-api
 ```
 
@@ -39,7 +39,7 @@ dotnet restore
 ```sh
 dotnet run
 ```
-The API will be available at **`http://localhost:5000`** (or **`https://localhost:5001`** for HTTPS).
+The API will be available at **`http://localhost:5205`** (or **`https://localhost:7264`** for HTTPS).
 
 ---
 
@@ -135,7 +135,7 @@ DELETE /api/tasks/{id}
 
 ## 📌 Swagger API Documentation
 Swagger is enabled for API documentation and testing.
-- Open: **`http://localhost:5000/swagger`**
+- Open: **`https://localhost:7264/index.html`**
 
 ---
 
@@ -152,7 +152,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 📬 Contact
-For issues or suggestions, contact **your@email.com** or open an issue on GitHub.
+For issues or suggestions, contact **ahmedmajko@gmail.com** or open an issue on GitHub.
 
 Happy Coding! 🚀
 
